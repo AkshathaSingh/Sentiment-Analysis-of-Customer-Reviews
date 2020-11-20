@@ -1,4 +1,4 @@
-## 3-Way Sentiment Analysis of Amazon Customer Reviews
+## Sentiment Analysis of Amazon Customer Reviews
 #### Overview
 In this project, we'll build a classification system with a 3-way polarity(Positive, Negative, Neutral) to classify the customer 
 reviews of Amazon's Grocery and Gourmet Food platform.

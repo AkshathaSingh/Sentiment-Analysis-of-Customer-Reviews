@@ -8,5 +8,5 @@ and then deploy <b>Naive Bayes classifier</b> to classify the reviews. we'll als
 and <b>Support Vector Machines</b>.
 
 #### Data
-- The dataset has been taken from Amazon Product Data, Julian McAuley UCSD.
-- We have taken 5k customer reviews with ratings in the range of 1-5.
+- The dataset has been taken from Amazon Review Data, Julian McAuley UCSD.
+- We have taken 5k customer reviews with ratings on the scale of 1-5.

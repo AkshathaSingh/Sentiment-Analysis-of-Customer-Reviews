@@ -11,4 +11,4 @@ and <b>Support Vector Machines</b>.
 - The dataset has been taken from Amazon Review Data, Julian McAuley UCSD.
 - We have taken 5k customer reviews with ratings on the scale of 1-5.
 
-**Link to the Blog Post:**https://akshathasingh.github.io/
+**Link to the Blog Post:** https://akshathasingh.github.io/
